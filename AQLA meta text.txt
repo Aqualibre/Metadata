@@ -2,5 +2,7 @@
   "name": "AQLA Token",
   "symbol": "AQLA",
   "description": "Utility Token",
-  "image": "https://raw.githubusercontent.com/Aqualibre/AQLAlogo/main/AQLA.png"
+  "image": "https://raw.githubusercontent.com/Aqualibre/AQLAlogo/main/AQLA.png",
+  "website": "https://www.aqualibretoken.com",
+  "twitter": "https://twitter.com/AqlaToken"
 }

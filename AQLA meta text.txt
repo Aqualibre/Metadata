@@ -1,6 +1,6 @@
 {
   "name": "AQLA Token",
   "symbol": "AQLA",
-  "description": "",
+  "description": "Utility Token",
   "image": "https://raw.githubusercontent.com/Aqualibre/AQLAlogo/main/AQLA.png"
 }
